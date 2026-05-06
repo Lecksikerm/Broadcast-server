@@ -103,7 +103,7 @@ Enter your username: Mary
 
 ## Project URL
 
-https://github.com/Lecksikerm/Broadcast-server
+https://roadmap.sh/projects/broadcast-server
 
 ---
 
